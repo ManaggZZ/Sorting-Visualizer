@@ -1,7 +1,10 @@
-<!-- # Sorting-Visualizer
-A pictorial representation demonstrating how Data Structures and Algorithms can be used to sort any data. -->
+# Sorting-Visualizer
+A pictorial representation demonstrating how Data Structures and Algorithms can be used to sort any data.
+
+![Sorting_Visualizer_ss](https://github.com/user-attachments/assets/e549775f-c0cb-4e6f-8ceb-ab0d2726859c)
 
 # Visualization of the algorithms.
+
 The visualizer basically plays with colors to better understand what is happening in the algorithm. The data here is the bars that are generated randomly with arbitrary heights. 
 
 When the algorithm runs, these bars or segments change to three different colors – yellow, red, and green, each holding its own function.
